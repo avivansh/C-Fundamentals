@@ -1,0 +1,7 @@
+/node_modules/*
+/src/GradeBook/bin/
+/src/GradeBook/obj/
+/src/GradeBook/.vscode/
+/test/GradeBook.Tests/bin/
+/test/GradeBook.Tests/obj/
+test/GradeBook.Tests/GradeBook.code-workspace
